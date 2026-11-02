@@ -1,0 +1,6 @@
+{"level":"info","message":{"duration":"4ms","ip":"::1","method":"GET","status":200,"url":"/health"},"timestamp":"2026-11-02 15:24:53"}
+{"level":"info","message":{"duration":"12ms","ip":"::1","method":"GET","status":200,"url":"/logs"},"timestamp":"2026-11-02 15:25:06"}
+2026-11-02 09:56:53 - GUEST - /logs
+2026-11-02 09:57:04 - GUEST - /signup
+2026-11-02 09:57:09 - GUEST - /login
+2026-11-02 09:57:13 - GUEST - /logs
